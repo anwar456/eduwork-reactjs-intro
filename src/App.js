@@ -6,8 +6,32 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h2>Tugas React JS Intro</h2>
+        <table className="table">
+          <tr>
+            <td>Nama</td>
+            <td></td>
+            <td>:</td>
+            <td></td>
+            <td>Anwar</td>
+          </tr>
+          <tr>
+            <td>Kelas</td>
+            <td></td>
+            <td>:</td>
+            <td></td>
+            <td>MERN</td>
+          </tr>
+          <tr>
+            <td>Mentor</td>
+            <td></td>
+            <td>:</td>
+            <td></td>
+            <td>Dimas Bagus Susilo</td>
+          </tr>
+        </table>
         <p>
-          Edit <code>src/App.js</code> and save to reload. Test Commit Ke 3
+          Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
